@@ -1,0 +1,13 @@
+site_name: FAS OnDemand User Guide
+site_url: http://localhost:8000/
+nav:
+  - Home: index.md
+  - A brief tour: tour.md
+  - Interactive Applications:
+    - Jupyter Notebooks: jupyter.md
+    - Rstudio Server: rstudio.md
+    - Additional Resources: additionalresources.md
+  - Help:
+    - Getting help: help.md
+    - System Status: status.md
+theme: readthedocs
