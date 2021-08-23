@@ -1,5 +1,5 @@
 site_name: FAS OnDemand User Guide
-site_url: http://localhost:8000/
+site_url: https://fasrc.github.io/fas-ondemand-user-guide/
 nav:
   - Home: index.md
   - A brief tour: tour.md

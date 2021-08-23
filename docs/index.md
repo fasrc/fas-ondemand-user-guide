@@ -13,3 +13,4 @@ To login to FAS OnDemand:
   * Visit your [Canvas](https://canvas.harvard.edu/) course
   * In the course navigation, click on **FAS OnDemand**
   * A new window will open and you will be logged into the portal
+
