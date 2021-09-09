@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fasrc.github.io/fas-ondemand-user-guide/</loc>
-         <lastmod>2021-08-27</lastmod>
+         <lastmod>2021-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fasrc.github.io/fas-ondemand-user-guide/additionalresources/</loc>
-         <lastmod>2021-08-27</lastmod>
+         <lastmod>2021-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fasrc.github.io/fas-ondemand-user-guide/help/</loc>
-         <lastmod>2021-08-27</lastmod>
+         <lastmod>2021-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fasrc.github.io/fas-ondemand-user-guide/jupyter/</loc>
-         <lastmod>2021-08-27</lastmod>
+         <lastmod>2021-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fasrc.github.io/fas-ondemand-user-guide/rstudio/</loc>
-         <lastmod>2021-08-27</lastmod>
+         <lastmod>2021-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fasrc.github.io/fas-ondemand-user-guide/status/</loc>
-         <lastmod>2021-08-27</lastmod>
+         <lastmod>2021-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fasrc.github.io/fas-ondemand-user-guide/tour/</loc>
-         <lastmod>2021-08-27</lastmod>
+         <lastmod>2021-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
