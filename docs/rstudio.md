@@ -141,7 +141,7 @@ If Rstudio will not start and you get an error message like this:
 
 Wait 2-3 minutes and try to re-launch the application. This may happen the very first time you login to FAS OnDemand and your account hasn't been fully provisioned yet.
 
-If you continue to get this error or otherwise cannot start Rstudio, please contact ithelp@harvard.edu for assistance.
+If you continue to get this error or otherwise cannot start Rstudio, please contact [ithelp@harvard.edu](mailto:ithelp@harvard.edu) for assistance.
 
 ### Problem logging in to Rstudio
 
