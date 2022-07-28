@@ -3,6 +3,7 @@ site_url: https://fasrc.github.io/fas-ondemand-user-guide/
 nav:
   - Home: index.md
   - A brief tour: tour.md
+  - Storage: storage.md
   - Interactive Applications:
     - Jupyter Notebooks: jupyter.md
     - Rstudio Server: rstudio.md
