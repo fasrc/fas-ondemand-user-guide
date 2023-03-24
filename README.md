@@ -10,7 +10,7 @@ $ mkdocs serve
 
 **Manual publish to gh-pages:**
 
-Make sure you are on the `master` branch and then run the following command to
+Make sure you are on the `main` branch and then run the following command to
 automatically deploy:
 
 ```
