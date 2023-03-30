@@ -8,6 +8,7 @@ nav:
   - Interactive Applications:
     - Jupyter Notebooks: jupyter.md
     - Rstudio Server: rstudio.md
+    - Kubernetes Applications (beta): kubernetes.md
     - Additional Resources: additionalresources.md
   - Help:
     - Getting help: help.md
